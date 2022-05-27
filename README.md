@@ -5,5 +5,5 @@
 
 |  #  | Title    |      Solution      |  Difficulty  |
 |----------|:----------|:-------------:|------:|
-| 35  | Search Insert Position |  C++ | Easy |
+| 35  |<a href="https://leetcode.com/problems/search-insert-position/" target="_blank">Search Insert Position</a> |  C++ | Easy |
 
