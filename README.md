@@ -5,7 +5,7 @@
 | —— | —— | —— |
 | Search Insert Position | C++ | Easy |
 
-| Tables   |      Are      |  Cool |
+| Title    |      Solution      |  Difficulty  |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
