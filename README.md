@@ -1,5 +1,5 @@
 # LeetCode
-## LeetCode Algorithm
+### LeetCode Algorithm
 
 
 
