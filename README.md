@@ -1,5 +1,5 @@
 # LeetCode
 
-| Title | Solution| Difficulty |
+| Title | Solution | Difficulty |
 | —— | —— | —— |
 | Search Insert Position | C++ | Easy |
